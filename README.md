@@ -1,11 +1,9 @@
-# [Stephen Grider] Docker and Kubernetes: The Complete Guide [ENG, 2018]
+# [Stephen Grider] Docker and Kubernetes: The Complete Guide
 
 **Original src**:  
 https://github.com/StephenGrider/DockerCasts
 
-**[Offtopic]**:  
-Deploy application from video course [Stephen Grider] Docker and Kubernetes: The Complete Guide [2018, ENG] on local kubernetes cluster  
-https://github.com/webmak1/Docker-and-Kubernetes-The-Complete-Guide-Deploy-on-Local-Kubernetes-Cluster-Only
+All course materials are located in the course folder.
 
 <br/>
 
